@@ -2,4 +2,4 @@
 
 ## 学习laravel
 
-### 1. [MarkDownStudy](https://github.com/istudy9/laravelStudy/tree/master/study/markdown)
+### [1. MarkDownStudy](https://github.com/istudy9/laravelStudy/tree/master/study/markdown)
